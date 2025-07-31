@@ -1,4 +1,5 @@
-![sticker_5](https://gifdb.com/images/high/kazuha-498-x-487-gif-qlwcv8uxbd7lckim.webp)
+<img width="717" height="749" alt="grafik" src="https://github.com/user-attachments/assets/38102f35-8eb0-4c00-b9d3-edc1ec3e1c55" />
+
 
 <!--
 **drownedindreams/drownedindreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
