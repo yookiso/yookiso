@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=drownedindreams&color=8db797)
+
 <img width="717" height="749" alt="grafik" src="https://github.com/user-attachments/assets/38102f35-8eb0-4c00-b9d3-edc1ec3e1c55" />
 
 
