@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=drownedindreams&color=640808)
+![](https://komarev.com/ghpvc/?username=drownedindreams&color=4b343b)
 
 <!--
 **drownedindreams/drownedindreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
